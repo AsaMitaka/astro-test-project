@@ -1,5 +1,7 @@
 # Astro Starter Kit: Minimal
 
+## [netlify](https://main--statuesque-bubblegum-3ce668.netlify.app/)
+
 ```
 npm create astro@latest -- --template minimal
 ```
