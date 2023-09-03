@@ -1,7 +1,8 @@
 ---
-title: 'My first blog post'
+layout: '../../layouts/MarkdownPostLayout.astro'
+title: My first blog post
 pubDate: 03-09-2023
-description: 'My first astro post'
+description: My first astro post
 author: 'Asa Mitaka'
 image:
   url: 'https://docs.astro.build/assets/full-logo-light.png'
